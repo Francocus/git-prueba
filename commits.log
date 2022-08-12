@@ -1,0 +1,98 @@
+commit 47a870059319a521b6ef9268d7f70b8d2c32b39d
+Author: Franco Berlochi <francoberlochi@gmail.com>
+Date:   Fri Aug 12 10:30:53 2022 -0300
+
+    Agregando 2 Parrafos
+
+commit fbd1c367b69fd272ab2c60d8b517aa53cfd92f14
+Merge: 426c1ca 7bab008
+Author: Franco Berlochi <francoberlochi@gmail.com>
+Date:   Fri Aug 12 10:28:54 2022 -0300
+
+    Resolviend conflicto en estaciones del año con fecha de inicio
+
+commit 426c1ca5fcde1dfa92bc1d502f549be35e13ac4d
+Author: Franco Berlochi <francoberlochi@gmail.com>
+Date:   Fri Aug 12 10:11:19 2022 -0300
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 7bab00868f220cc0ea779aa1ded7ca0ce3cc9cd7
+Author: Franco Berlochi <francoberlochi@gmail.com>
+Date:   Fri Aug 12 10:11:19 2022 -0300
+
+    agregando estaciones del año
+
+commit bc54d8a564188b221f21c637cbfe665d5ba8ca3c
+Merge: 3a91d98 980440d
+Author: Franco Berlochi <francoberlochi@gmail.com>
+Date:   Wed Aug 10 16:04:59 2022 -0300
+
+    resolviendo conflicto merge main html en el documento index.html
+
+commit 980440de64cad170e14835a7ffd9a10fb58ade1b
+Author: Franco Berlochi <francoberlochi@gmail.com>
+Date:   Wed Aug 10 16:01:05 2022 -0300
+
+    agregando index.js a index.html
+
+commit 3a91d984449b3c8a8f4629bb1284609e32731dd6
+Author: Franco Berlochi <francoberlochi@gmail.com>
+Date:   Wed Aug 10 15:59:01 2022 -0300
+
+    agregano style.css a index.html
+
+commit a01de2053b140d8856302fd84704a6313b49a1a6
+Merge: 3026044 08518d5
+Author: Franco Berlochi <francoberlochi@gmail.com>
+Date:   Wed Aug 10 15:51:58 2022 -0300
+
+    Merge branch 'js'
+
+commit 08518d52289b797e1fb14357897ffb838dfaa86f
+Author: Franco Berlochi <francoberlochi@gmail.com>
+Date:   Wed Aug 10 15:48:13 2022 -0300
+
+    creando index.js
+
+commit 302604422c0a65ec0eaa203386f186846057228f
+Author: Franco Berlochi <francoberlochi@gmail.com>
+Date:   Wed Aug 10 15:44:18 2022 -0300
+
+    creando style.css
+
+commit a8c54f03a11628740cd4d68a5fc61ba65f19a2d7
+Author: Franco Berlochi <francoberlochi@gmail.com>
+Date:   Wed Aug 10 15:41:11 2022 -0300
+
+    creando index.html
+
+commit 37114aca52cd77679adbf5b629e185135d15aadc
+Author: Franco Berlochi <francoberlochi@gmail.com>
+Date:   Wed Aug 10 15:18:38 2022 -0300
+
+    ignorando archivos .exe
+
+commit 7d1390235c703ac6967bf06c0df638871248d603
+Author: Franco Berlochi <francoberlochi@gmail.com>
+Date:   Wed Aug 10 15:16:07 2022 -0300
+
+    ignorando archivos .exe
+
+commit d92e2082dd89b0db9e4565d1217861e6ef052174
+Author: Franco Berlochi <francoberlochi@gmail.com>
+Date:   Wed Aug 10 14:45:47 2022 -0300
+
+    agregando mas content
+
+commit c5988da6a15980f999f4ead30d8e4cb81cc24879
+Author: Franco Berlochi <francoberlochi@gmail.com>
+Date:   Wed Aug 10 11:58:22 2022 -0300
+
+    agregando contenido al readme
+
+commit 1535bbdec8800ad45788bdc230bfdba5bc968625
+Author: Franco Berlochi <francoberlochi@gmail.com>
+Date:   Wed Aug 10 11:53:16 2022 -0300
+
+    Primer comit :v
